@@ -7,7 +7,7 @@
 ### Background <a name="background"></a>
 The U.S. real estate market has undergone significant tranasformation between 1996 to 2018.In recent years lower interest rates and government internation have restored stability in the market. Our project aims to analyze this period's real estate data to identify top-performing zip codes for short-term investments with high return on investment and low risk.
 
-### Problem Statement <a name="problem-statement"></a>
+### Business Problem <a name="problem-statement"></a>
 Waridi Investments a real estate investment seeks to identitfy the top 5 zip codes with the highest potential return on investment (ROI) within 5 years using the available data for maximum gain.
 
 ### Objectives <a name="objectives"></a>
